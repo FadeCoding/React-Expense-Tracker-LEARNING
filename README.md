@@ -13,7 +13,7 @@ React.js, JavaScript (ES6+), CSS3, HTML5
 
 ✨ Features
 
-Add new expenses, view all expenses, filter by year, and track your spending in a clean and simple UI.
+Add new expenses, view all expenses, remove expenses
 
 👨‍💻 Author
 
